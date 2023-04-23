@@ -1,2 +1,2 @@
-# ashliegarcia.github.io
-Ashlie's Data Analytics Portfolio
+# Ashlie Garcia - Data Analytics Portfolio
+
