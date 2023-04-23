@@ -1,2 +1,2 @@
-# About Me & My Data Journey:
+Ashlie Garcia - Data Analytics Porfolio
 example
