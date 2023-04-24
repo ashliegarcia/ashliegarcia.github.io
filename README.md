@@ -1,4 +1,4 @@
-# Ashlie Garcia - Data Analytics Portfolio
+# Data Analytics Portfolio
 ## About Me 
 I am an Academic and Curricular Analyst pursuing a Master of Science in Data Analytics from Western Governors Univerity. 
 ## [Project 1: Student Success Initiative](https://github.com/ashliegarcia/student_success_project)
