@@ -7,7 +7,7 @@ For this project, I researched 350 students and determined which students could 
 I'm currently working on this project that has a hypotheical scenario and explores data based on LinkedIn visitors and followers. The following is a snippet of the project. 
 + I visualized both Total Page Views for both desktop and mobile visitors. 
   + Desktop had the highest views on October 13, 2022 with 51 views. Mobile had the highest views on August 17, 2022 with 111 views. 
-+ Plans for future analysis:
++ Plans for analysis:
   + Compare average number of visits per week, month, and overall.
   + Compare total number of visitors and followers by location, job function, seniority, industry, and company size. 
   + Combine insights to find any similarities within the categories.
